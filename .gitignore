@@ -1,0 +1,10 @@
+__pycache__/
+*/__pycache__/*
+.Trash-*
+.nfs*
+Icon
+
+._*
+
+
+app/*/__pycache__/
