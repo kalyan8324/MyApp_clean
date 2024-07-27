@@ -1,5 +1,6 @@
 __pycache__/
 */__pycache__/*
+**/__pycache__/
 .Trash-*
 .nfs*
 Icon
@@ -7,4 +8,5 @@ Icon
 ._*
 
 
-app/*/__pycache__/
+app/**/__pycache__/__pycache__/
+**/__pycache__/
