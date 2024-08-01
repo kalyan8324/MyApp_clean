@@ -21,3 +21,4 @@ python3 -m app.main
 * Streamlit : Used for creating an interactive and dynamic frontend interface.
 * RAG Integration : Implements RAG( Retrival-Augmented Generation) using a language learning model to enhance data processing and retrieval from crash reports.
 
+# RAG-application-end-to-end
